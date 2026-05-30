@@ -1,0 +1,21 @@
+
+import { Navigate, Routes, Route } from "react-router-dom"
+import Sidebar from "../components/Sidebar"
+import AddProduct from "../components/AddProduct"
+import ListProduct from "../components/listProduct"
+
+
+const Admin = () => {
+  return (
+    <div className="lg:flex">
+      <Sidebar />
+      <Routes>
+        <Route index element={<Navigate to="addproduct" replace />} />
+        <Route path="addproduct" element={<AddProduct />} />
+        <Route path="listproduct" element={<ListProduct />} />
+      </Routes>
+    </div>
+  );
+};
+
+export default Admin
