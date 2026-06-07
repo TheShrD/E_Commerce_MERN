@@ -354,7 +354,7 @@ npm run dev
 | Module | URL |
 |----------|----------|
 | Frontend | http://localhost:5173 |
-| Admin Dashboard | http://localhost:5174 |
+| Admin Dashboard | http://localhost:5175 |
 | Backend API | http://localhost:4000 |
 
 ---
