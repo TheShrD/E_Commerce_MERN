@@ -425,15 +425,15 @@ GET /api/cart
 
 ## Home Page
 
+<img width="1895" height="1021" alt="image" src="https://github.com/user-attachments/assets/13f0196c-fa78-4c1e-acfd-47878e88f85b" />
 
 
 ## Product Details
 
 Add screenshot here
 
-```
-screenshots/product-details.png
-```
+<img width="1805" height="971" alt="image" src="https://github.com/user-attachments/assets/8a0103f3-984b-4501-92a4-51f37567fdf6" />
+
 
 ---
 
@@ -441,9 +441,8 @@ screenshots/product-details.png
 
 Add screenshot here
 
-```
-screenshots/cart.png
-```
+<img width="1910" height="1050" alt="image" src="https://github.com/user-attachments/assets/f713ed1b-fee8-4256-888b-af1cc84807cd" />
+
 
 ---
 
@@ -451,9 +450,8 @@ screenshots/cart.png
 
 Add screenshot here
 
-```
-screenshots/admin-dashboard.png
-```
+<img width="1854" height="977" alt="image" src="https://github.com/user-attachments/assets/afcf85c6-83fe-462b-b5e1-28b40a9868c7" />
+
 
 ---
 
@@ -542,13 +540,13 @@ Display:
 Software Developer | MERN Stack Developer
 
 GitHub:
-https://github.com/your-github-username
+https://github.com/TheShrD
 
 LinkedIn:
-https://linkedin.com/in/your-linkedin-profile
+https://www.linkedin.com/in/shruti-deshpande-0b9082209 
 
 Email:
-your-email@example.com
+shrutideshpande599@gmail.com
 
 ---
 
