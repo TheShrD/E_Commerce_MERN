@@ -254,12 +254,19 @@ cd ecommerce-project
 
 ---
 
+
 ## Step 2: Install Frontend Dependencies
 
 ```bash
 cd Frontend
 npm install
 ```
+<img width="1437" height="740" alt="image" src="https://github.com/user-attachments/assets/79cc5d22-657a-4a12-aec5-d3d288333005" />
+for output of the frontend we need to add 
+npm run dev 
+<img width="1093" height="375" alt="image" src="https://github.com/user-attachments/assets/4fea6e93-ef03-4669-9008-3ed1cb20d514" />
+output as followed :
+<img width="1864" height="1045" alt="image" src="https://github.com/user-attachments/assets/4463452d-a790-46c1-a800-18d9d518bd8e" />
 
 ---
 
@@ -269,6 +276,7 @@ npm install
 cd ../Admin
 npm install
 ```
+
 
 ---
 
@@ -417,13 +425,7 @@ GET /api/cart
 
 ## Home Page
 
-Add screenshot here
 
-```
-screenshots/home.png
-```
-
----
 
 ## Product Details
 
